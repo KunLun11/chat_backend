@@ -1,0 +1,2 @@
+class BlValidationError(Exception):
+    pass
